@@ -1,0 +1,14 @@
+<Project>
+
+  <PropertyGroup>
+    <LangVersion>8</LangVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Nullable>annotations</Nullable>
+    <Deterministic>true</Deterministic>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+</Project>

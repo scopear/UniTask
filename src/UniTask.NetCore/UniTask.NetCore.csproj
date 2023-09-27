@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFrameworks>net6.0;net7.0;netstandard2.1;netstandard2.0</TargetFrameworks>
@@ -23,7 +23,7 @@
         <PackageIcon>Icon.png</PackageIcon>
         <SignAssembly>true</SignAssembly>
         <AssemblyOriginatorKeyFile>opensource.snk</AssemblyOriginatorKeyFile>
-        <IsPackable>true</IsPackable>
+        <IsPackable>false</IsPackable>
     </PropertyGroup>
 
     <ItemGroup>
